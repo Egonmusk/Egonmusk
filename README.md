@@ -1,11 +1,11 @@
 <h1 align="center">👋 Olá, eu sou o <span style="color:#0077ff;">Egon</span> | Hey there! I'm <span style="color:#0077ff;">Egon</span></h1>
 
 <p align="center">
-💻 Dev | 🧠 Estudando para <strong>Security+ (CompTIA)</strong> | 🚀 Automação, Jogos, Sites e Apps Mobile  
+💻 Dev | </strong> | 🚀 Automação, Jogos, Sites e Apps Mobile  
 </p>
 
 <p align="center">
-💻 Dev | 🧠 Studying for <strong>Security+ (CompTIA)</strong> | 🚀 Automation, Games, Websites & Mobile Apps  
+💻 Dev | </strong> | 🚀 Automation, Games, Websites & Mobile Apps  
 </p>
 
 ---
