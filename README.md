@@ -1,11 +1,11 @@
 <h1 align="center">👋 Olá, eu sou o <span style="color:#0077ff;">Egon</span> | Hey there! I'm <span style="color:#0077ff;">Egon</span></h1>
 
 <p align="center">
-💻 Dev | </strong> | 🚀 Automação, Jogos, Sites e Apps Mobile  
+💻 Dev </strong> | 🚀 Automação, Jogos, Sites e Apps Mobile  
 </p>
 
 <p align="center">
-💻 Dev | </strong> | 🚀 Automation, Games, Websites & Mobile Apps  
+💻 Dev </strong> | 🚀 Automation, Games, Websites & Mobile Apps  
 </p>
 
 ---
